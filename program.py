@@ -1,2 +1,2 @@
 print("ashu")
-print("satya")
+print("satya akka")
